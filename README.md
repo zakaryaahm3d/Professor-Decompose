@@ -1,4 +1,4 @@
-# 🕹️ Professor Decompose - The Cognitive Arena
+# 🕹️ Skill Issue
 
 > **The LeetCode of Learning.** An addictive arcade-style study platform that identifies which pedagogical styles actually make information stick for you. Learn through "Influencer Personas," validate retention via the **Comprehension Gauntlet**, and climb the global **Dean's List** Elo leaderboard.
 
